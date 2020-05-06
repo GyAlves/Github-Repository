@@ -47,11 +47,12 @@ const Repository: React.FC = () => {
     <>
       <Header>
         <img src={logoImg} alt="Github Explorer" />
-        <Link to="/dashboard">
+        <Link to="/">
           <FiChevronLeft size={17} />
           Voltar
         </Link>
       </Header>
+
       {repository && (
         <RepositoryInfo>
           <header>
@@ -80,15 +81,16 @@ const Repository: React.FC = () => {
           </ul>
         </RepositoryInfo>
       )}
+
       <Issues>
         {issues.map((issue) => (
-          <Link key={issue.id} to={issue.html_url}>
+          <a key={issue.id} href={issue.html_url}>
             <div>
               <strong>{issue.title}</strong>
               <p>{issue.user.login}</p>
             </div>
             <FiChevronRight size={20} />
-          </Link>
+          </a>
         ))}
       </Issues>
     </>

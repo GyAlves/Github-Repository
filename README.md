@@ -7,7 +7,7 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/GyAlves/Github-Repository-">
 
-  <a href="linkedin.com/in/gyasmin-assunção-223417180">
+  <a href="https://www.linkedin.com/in/gyasmin-assun%C3%A7%C3%A3o-223417180/">
     <img alt="Made by Gyasmin Alves" src="https://img.shields.io/badge/made%20by-Gyasmin%20Alves-blue">
   </a>
 

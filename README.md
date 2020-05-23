@@ -42,3 +42,4 @@ MIT Licence. See the file [LICENSE](LICENSE.md) for more details.
 
 ---
 
+### Creating intuitives, pretty and problem solver applications

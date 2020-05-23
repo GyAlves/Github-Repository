@@ -1,8 +1,5 @@
 
 
- <img src="https://ik.imagekit.io/am6iypeh5w/githubRepositoryGif_pFAksWeKG.gif" />
-
-
 <h1 align="center">
    Github Explore
 </h1>
@@ -16,8 +13,13 @@
 
  <img alt="License" src="https://img.shields.io/github/license/GyAlves/Github-Repository?color=blue">
 
-
 </p>
+
+
+
+ <img src="https://ik.imagekit.io/am6iypeh5w/githubRepositoryGif_pFAksWeKG.gif" widht="200px" />
+
+
 
 
 ##  Sobre  📖

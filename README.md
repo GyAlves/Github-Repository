@@ -36,5 +36,9 @@ Tecnologias e ferramentas utilizadas no projeto :
 - API Github
 
 
-## Desenvolvido por :
-#### Gyasmin Assunção, como parte dos desafios propostos no bootcamp da Rocketseat 2020
+##  Licence :memo:
+
+MIT Licence. See the file [LICENSE](LICENSE.md) for more details.
+
+---
+

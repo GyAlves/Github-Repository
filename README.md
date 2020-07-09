@@ -25,6 +25,11 @@
 ##  Sobre  📖
 Pesquise repositórios que esteja interessado e tenha acesso a suas informações
 
+## Funcinalidades :
+
+- Busca de repositórios 
+- Acesso a informaçoes de starts, forks e issues dos repositórios
+
 ## Tecnologias  📱 
 
 Tecnologias e ferramentas utilizadas no projeto :

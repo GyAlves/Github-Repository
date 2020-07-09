@@ -35,6 +35,21 @@ Tecnologias e ferramentas utilizadas no projeto :
 - ExpressJS
 - API Github
 
+ ## Requisitos necessários para rodar o projeto 
+    
+  ```   
+  // 1 - Git Clone
+  
+  // 2 - Instale as depêndencias
+  yarn install
+  
+  // 3 - Na pasta do backend rode o servidor 
+  yarn start
+  
+  // O servidor deverá abrir a aplicação no seu navegador
+
+```
+
 
 ##  Licence :memo:
 

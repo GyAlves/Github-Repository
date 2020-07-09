@@ -25,7 +25,7 @@
 ##  Sobre  📖
 Pesquise repositórios que esteja interessado e tenha acesso a suas informações
 
-## Funcinalidades :
+## Funcionalidades :
 
 - Busca de repositórios 
 - Acesso a informaçoes de starts, forks e issues dos repositórios
